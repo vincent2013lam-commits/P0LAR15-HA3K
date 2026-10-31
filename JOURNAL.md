@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 3.5h | 1 |
+| Week 4 | Tier 1 | 4h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-31: October 30: #P0LAR15!!!
 
-**3.5h**
+**4h**
 
 October 30: #P0LAR15!!!
 
