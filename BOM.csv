@@ -3,4 +3,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 Raspberry Pi Pico,1,Adafruit,$4.00,$4.00,https://www.adafruit.com/product/4864?
 Capacitor 0.1 µF,1,Digikey,$0.14,$0.14,https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594
 Capacitor 	 10 µF,1,Digikey,$0.61,$0.61,https://www.digikey.com/en/products/detail/kemet/C0805C106K8RACTU/3317617?
+Resistor 4.7kΩ,2,Digikey,$0.10,$0.20,https://www.digikey.com/en/products/detail/yageo/RC0805FR-074K7L/727929?
 Estimated total shipping,1,,,$0.00,
