@@ -22,5 +22,11 @@ Take a look to admire the work in a 3D preview:
 
 <img width="702" height="268" alt="Screenshot 2026-10-30 221629" src="https://github.com/user-attachments/assets/60d5412c-6107-41bd-ae40-cb8c805a8342" />
 
+Then comes the sensor, adding it to the schematic, footrpints and PCB.
+
+After comes the gerber and drill files, where you can preview the PCB on JLCPCB:
+
+<img width="951" height="235" alt="image" src="https://github.com/user-attachments/assets/1966d8a6-c3c5-4b03-a1a8-117f0780f534" />
+
 
 
