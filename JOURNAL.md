@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cq3z9mghywzapbgrwa6alzr9)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> P0LAR1S is an OLED screen that will create pictures better than ever, from stunning backgrounds to vivid perspectives.
+> P0LAR1S is an OLED screen simply constructed onto a circuit board embedded in a C++ or python code that predicts the environment around you, such as temperature and humidity.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
